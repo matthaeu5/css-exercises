@@ -1,0 +1,14 @@
+.imposter, 
+.mrRight {
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
+
+.imposter {
+    background-color: black;
+    color: white;
+}
+
+.mrRight {
+    background-color: yellow;
+}
